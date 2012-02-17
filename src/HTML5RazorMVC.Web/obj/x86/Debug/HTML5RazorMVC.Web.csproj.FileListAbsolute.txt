@@ -1,5 +1,0 @@
-C:\Users\Phil\Github\HTML5RazorMVC\HTML5RazorMVC.Web\bin\HTML5RazorMVC.Web.dll
-C:\Users\Phil\Github\HTML5RazorMVC\HTML5RazorMVC.Web\bin\HTML5RazorMVC.Web.pdb
-C:\Users\Phil\Github\HTML5RazorMVC\HTML5RazorMVC.Web\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Phil\Github\HTML5RazorMVC\HTML5RazorMVC.Web\obj\x86\Debug\HTML5RazorMVC.Web.dll
-C:\Users\Phil\Github\HTML5RazorMVC\HTML5RazorMVC.Web\obj\x86\Debug\HTML5RazorMVC.Web.pdb
