@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 4.2.0.8547-beta
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5RazorMVC.Web", "HTML5RazorMVC.Web\HTML5RazorMVC.Web.csproj", "{088261CF-B90C-46DD-B4C3-142F4CE65CA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiveMVC.Web", "ResponsiveMVC.Web\ResponsiveMVC.Web.csproj", "{088261CF-B90C-46DD-B4C3-142F4CE65CA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
