@@ -2,7 +2,7 @@
 using System;
 using System.Web.Mvc;
 
-namespace HTML5RazorMVC.Web.Controllers
+namespace ResponsiveMVC.Web.Controllers
 {
 	public class HomeController : Controller
 	{

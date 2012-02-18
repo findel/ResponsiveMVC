@@ -3,7 +3,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace HTML5RazorMVC.Web
+namespace ResponsiveMVC.Web
 {
 	public class MvcApplication : HttpApplication
 	{
